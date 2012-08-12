@@ -1,4 +1,4 @@
-Better icons for [LiveReload Safari extension](https://github.com/mockko/livereload/). Retina ready.
+Better button icons for [LiveReload Safari extension](https://github.com/mockko/livereload/) and menu bar icons for LiveReload OS X application. Retina ready.
 
 Result screen shot:
 
