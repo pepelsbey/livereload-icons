@@ -1,10 +1,10 @@
 Better icons for [LiveReload](https://github.com/mockko/livereload/) extensions for Safari, Chrome and OS X application. Retina ready.
 
 ## Safari
-![screen](Safari/source.jpg)
+![screen](https://raw.github.com/pepelsbey/livereload-icons/master/Safari/source.jpg)
 
 ## Chrome
-![screen](Chrome/source.jpg)
+![screen](https://raw.github.com/pepelsbey/livereload-icons/master/Chrome/source.jpg)
 
 ## OS X
-![screen](OSX/source.jpg)
+![screen](https://raw.github.com/pepelsbey/livereload-icons/master/OSX/source.jpg)
